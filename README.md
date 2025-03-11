@@ -1,1 +1,1 @@
-{ https://manojamme27.github.io/detection-of-diabetes-using-machine-learning/ }
+{  https://panny9618.github.io/Detection-of-Diabetes-Using-Machine-Learning/ }
